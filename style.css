@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(175, 228, 90);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+section {
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-bottom: 1px;
+    padding-left: 20px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+#escolaridade {
+    
+    background-color: rgb(222,184,100);
+}
+
+#experiencia {
+    background-color:rgb(222,184,125);
+}
+
+#cursos {
+    background-color:rgb(222,184,150);
+}
+
+
+ol {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
